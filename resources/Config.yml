@@ -1,0 +1,21 @@
+#******************************************************************
+#**                         Linesia-V4                           **
+#******************************************************************
+
+#Server
+maintenance: false
+maintenance.raison: "Aucun"
+
+#Chat
+mute.chat: false
+mute.chat.raison: "Aucun"
+
+#ScoreBoard
+lines:
+  0: " "
+  1: "Nom : §e{NAME}"
+  2: "Grade : {GRADE}"
+  3: "  "
+  4: "Faction : §e{FACTION}"
+  5: "Money : §e{MONEY}"
+  6: "   "

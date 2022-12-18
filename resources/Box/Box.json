@@ -1,0 +1,36 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "COFFRE",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-8, 0, -6], "size": [16, 8, 10], "inflate": 0.01, "uv": [0, 13]},
+						{"origin": [-8.5, 0, -6.5], "size": [2, 2, 2], "uv": [0, 35]},
+						{"origin": [6.5, 0, -6.5], "size": [2, 2, 2], "uv": [0, 31]},
+						{"origin": [6.5, 6, -6.5], "size": [2, 2, 2], "uv": [0, 17]},
+						{"origin": [-8.5, 6, -6.5], "size": [2, 2, 2], "uv": [0, 13]},
+						{"origin": [-2, 4.5, -6.9], "size": [4, 4, 3], "uv": [0, 43]},
+						{"origin": [-8.5, 8, -6.5], "size": [17, 1, 11], "uv": [0, 0]},
+						{"origin": [-8.5, 9, -6], "size": [17, 2, 10], "uv": [0, 31]},
+						{"origin": [-8.5, 11, -4], "size": [17, 1, 6], "uv": [42, 13]},
+						{"origin": [-8.5, 6, 2.5], "size": [2, 2, 2], "uv": [6, 2]},
+						{"origin": [-8.5, 0, 2.5], "size": [2, 2, 2], "uv": [0, 0]},
+						{"origin": [6.5, 0, 2.5], "size": [2, 2, 2], "uv": [0, 4]},
+						{"origin": [6.5, 6, 2.5], "size": [2, 2, 2], "uv": [0, 8]}
+					]
+				}
+			]
+		}
+	]
+}

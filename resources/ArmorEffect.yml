@@ -1,0 +1,40 @@
+302:
+  effect:
+    16: #id effect
+      amplifier: 0
+      visible: false #particle
+303:
+  effect:
+    12: #id effect
+      amplifier: 0
+      visible: false #particle
+304:
+  effect:
+    11: #id effect
+      amplifier: 0
+      visible: false #particle
+305:
+  effect:
+    1: #id effect
+      amplifier: 0
+      visible: false
+314:
+  effect:
+    16:
+      amplifier: 0
+      visible: false
+315:
+  effect:
+    12:
+      amplifier: 1
+      visible: false
+316:
+  effect:
+    11:
+      amplifier: 1
+      visible: false
+317:
+  effect:
+    1:
+      amplifier: 1
+      visible: false

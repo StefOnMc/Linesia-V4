@@ -1,0 +1,71 @@
+name: Linesia-V4
+version: 4.0.0
+main: Linesia\Core
+api: 4.0.0
+prefix: "§9Linésia§f"
+authors:
+  - Julien
+  - Linesia-Team
+permissions:
+  linesia.*:
+    default: op
+  linesia.moderation.setspawn:
+    default: op
+  linesia.moderation.staffmode:
+    default: op
+  linesia.grade.craft:
+    default: op
+  linesia.administration.addmoney:
+    default: op
+  linesia.moderation.maintenance:
+    default: op
+  linesia.moderation.mutechat:
+    default: op
+  linesia.grade.enderchest:
+    default: op
+  linesia.moderation.clearchat:
+    default: op
+  linesia.moderation.invsee:
+    default: op
+  linesia.moderation.alias:
+    default: op
+  linesia.administration.addrank:
+    default: op
+  linesia.administration.setrank:
+    default: op
+  linesia.administration.setformat:
+    default: op
+  linesia.administration.setpermission:
+    default: op
+  linesia.administration.removepermission:
+    default: op
+  linesia.administration.setnametag:
+    default: op
+  linesia.administration.removerank:
+    default: op
+  linesia.administration.ranks:
+    default: op
+  linesia.administration.permissionlist:
+    default: op
+  linesia.moderation.unban:
+    default: op
+  linesia.moderation.unmute:
+    default: op
+  linesia.moderation.tempsban:
+    default: op
+  linesia.moderation.kick:
+    default: op
+  linesia.moderation.mute:
+    default: op
+  linesia.moderation.mutelist:
+    default: op
+  linesia.moderation.banlist:
+    default: op
+  linesia.grade.repair:
+    default: op
+  linesia.administration.npc:
+    default: op
+  linesia.default:
+    default: true
+  linesia.moderation.gamemode:
+    default: op

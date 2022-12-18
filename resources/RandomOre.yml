@@ -1,0 +1,11 @@
+randomOre: "1"
+
+drops:
+  "388:0":
+    chance: 3
+    amount: 2
+    name: "test"
+  "4:0":
+    chance: 3
+    amount: 2
+    name: null
